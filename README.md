@@ -10,13 +10,7 @@ I'm an undergraduate at the University of Colombo School of Computing. I have a 
 - 📫 How to reach me: [nivodya2001@gmail.com](mailto:nivodya2001@gmail.com)
 
 
-## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/milan-bhanuka-7a69a0196)
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook)](https://www.facebook.com/milan.viladdaragamage.7)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram)](https://www.instagram.com/_._milaan_._)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/vgmbhanuka)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/vgmbhanuka)
 
 ## 🛠️ Languages and Tools
 
