@@ -47,4 +47,4 @@ I'm an undergraduate at the University of Colombo School of Computing. I have a 
 
 ## 📈 GitHub Stats
 
-![Hasini's GitHub stats](https://github-readme-stats.vercel.app/api?hasinihewa=your-hasinihewa&show_icons=true&theme=radical)
+![Hasini's GitHub stats](https://github-readme-stats.vercel.app/api?hasinihewa=hasinihewa&show_icons=true&theme=radical)
