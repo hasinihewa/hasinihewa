@@ -9,6 +9,12 @@ I'm an undergraduate at the University of Colombo School of Computing. I have a 
 - 👀 Interested in: Data analysis, software development, and creating seamless user experiences.
 - 📫 How to reach me: [nivodya2001@gmail.com](mailto:nivodya2001@gmail.com)
 
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hasini-nivodya-baa82726a/)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook)](https://www.facebook.com/profile.php?id=100080176241643)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram)](https://www.instagram.com/hasinihewa/?hl=en)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/hasinihewa)
 
 
 
@@ -41,4 +47,4 @@ I'm an undergraduate at the University of Colombo School of Computing. I have a 
 
 ## 📈 GitHub Stats
 
-![Hasini's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Hasini's GitHub stats](https://github-readme-stats.vercel.app/api?hasinihewa=your-hasinihewa&show_icons=true&theme=radical)
