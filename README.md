@@ -45,6 +45,4 @@ I'm an undergraduate at the University of Colombo School of Computing. I have a 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
-## 📈 GitHub Stats
 
-![Hasini's GitHub stats](https://github-readme-stats.vercel.app/api?hasinihewa=hasinihewa&show_icons=true&theme=radical)
