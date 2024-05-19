@@ -51,7 +51,6 @@ I'm an undergraduate at the University of Colombo School of Computing. I have a 
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=hasinihewa&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hasinihewa&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hasinihewa&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
