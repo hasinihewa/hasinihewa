@@ -16,6 +16,13 @@ I'm an undergraduate at the University of Colombo School of Computing. I have a 
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram)](https://www.instagram.com/hasinihewa/?hl=en)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/hasinihewa)
 
+## My GitHub Contributions
+
+![Hasinihewa's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasinihewa&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasinihewa&layout=compact&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasinihewa&theme=dark)
 
 
 ## 🛠️ Languages and Tools
