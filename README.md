@@ -16,9 +16,7 @@ I'm an undergraduate at the University of Colombo School of Computing. I have a 
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram)](https://www.instagram.com/hasinihewa/?hl=en)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/hasinihewa)
 
-## My GitHub Contributions
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hasinihewa&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
