@@ -48,5 +48,4 @@ I'm an undergraduate at the University of Colombo School of Computing. I have a 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
 
-![Hasini Nivodya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasinihewa&show_icons=true)
 
